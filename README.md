@@ -13,4 +13,4 @@ cd DDoS-Attack
 
 chmod +x ddos-attack.py
 
-python ddos-attack.py
+python2 ddos-attack.py
